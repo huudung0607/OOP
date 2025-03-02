@@ -53,9 +53,9 @@ private:
 
 int main()
 {
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	product X;
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  product X;
   cin >> X;
   cout << X << endl;
 }
